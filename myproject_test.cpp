@@ -31,7 +31,6 @@ int main(int argc, char **argv)
 {
 
   //hls-fpga-machine-learning insert data
-  //std::cout << "CIAO " << N_INPUTS << std::endl;
   input_t  data_str[N_INPUTS] = {0.375406, 0.904037, 0.0774234, 0.00648763, 0.0749703, 0.00445173, 0.346424, 0.15876, 0.346424, 0.755111, 0.7699, 0.600613, 0.824538, 0.601524, 0.0363961, 0.219895};
 
 
